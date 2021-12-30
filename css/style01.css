@@ -1,0 +1,17 @@
+/* chapter7 CSS파일 */
+
+h1{
+    background-color:pink
+}
+
+#blue{
+    color:white;
+    background-color:blue;
+}
+
+body {
+    background-image:url('../img/flower_bee.jpg');
+    background-repeat:no-repeat;
+    background-position:center center;
+
+}
